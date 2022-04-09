@@ -1,9 +1,14 @@
-# Profile Generator
+   # Profile Generator 
+
+## Description
+
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     https://opensource.org/licenses/MIT
-  ## Description
   
+  # Requirements 
+  ![User Story and Acceptance Criteria](./assets/img/acceptance.jpeg)
+
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -20,7 +25,7 @@
   
   # Walk Through Video
   [Video Demo]()
-  
+
   ## Contributing
   Latravia Gordon
   

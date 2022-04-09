@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gordonlc18/profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.2",
-    "jest": "^27.5.1"
+    "jest": "^27.5.1",
+    "node-emoji": "^1.11.0"
   }
 }
