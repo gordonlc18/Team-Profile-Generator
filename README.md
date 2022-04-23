@@ -1,25 +1,21 @@
-# Profile Generator
+# Team Profile Generator ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-_by Latravia Gordon_
-
-## Description
-
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-https://opensource.org/licenses/MIT
-
-# Requirements
-
-![User Story and Acceptance Criteria](./assets/img/acceptance.jpeg)
+_by Latravia Gordon_</br>
 
 ## Table of Contents
 
 - [Description](#description)
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-<!-- * [Contributing](#contributing) -->
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Description
+
+# Requirements
+
+![User Story and Acceptance Criteria](./assets/img/acceptance.jpeg)
 
 ## Installation
 
@@ -33,8 +29,7 @@ https://opensource.org/licenses/MIT
 
 ## Tests
 
-To test, please install the Jest package and running `npm run test`
-npm test
+To test, please install the Jest package and run `npm run test`.
 
 ## Questions
 
