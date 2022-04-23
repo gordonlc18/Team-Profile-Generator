@@ -2,12 +2,14 @@
 
 _by Latravia Gordon_</br>
 
+## Description
+
 ## Table of Contents
 
-- [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -21,11 +23,9 @@ _by Latravia Gordon_</br>
 
 # Usage
 
-# Walk Through Video
-
 [Video Demo]()
 
-  <!-- ## Contributing -->
+# Screenshot
 
 ## Tests
 
