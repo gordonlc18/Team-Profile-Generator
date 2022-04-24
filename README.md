@@ -28,9 +28,11 @@ The user should clone the repository then download Node. Run `npm install`, then
 
 To begin profile generator run `node index.js` in your command line.
 
-[Video Demo]()
+[Video Demo](./utils/team_generator_walkthrough.webm)
 
 ## Screenshot
+
+![Generated HTML Page](./assets/img/team-generator.jpeg)
 
 ## Tests
 
