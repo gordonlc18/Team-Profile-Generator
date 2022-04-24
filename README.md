@@ -12,6 +12,7 @@ _by Latravia Gordon_</br>
 - [Screenshot](#screenshot)
 - [Tests](#tests)
 - [Questions](#questions)
+- [License](#license)
 
 ## Description
 
@@ -21,7 +22,11 @@ _by Latravia Gordon_</br>
 
 ## Installation
 
+The user should clone the repository then download Node. Run `npm install`, then add the dependency `npm inquirer`.
+
 # Usage
+
+To begin profile generator run `node index.js` in your command line.
 
 [Video Demo]()
 
@@ -29,7 +34,7 @@ _by Latravia Gordon_</br>
 
 ## Tests
 
-To test, please install the Jest package and run `npm run test`.
+Please install the Jest package using the following command, `npm install --save-dev jest`. Then run `npm run test` when you're ready to test.
 
 ## Questions
 
@@ -38,3 +43,7 @@ For any questions about the project, please contact me by either of the followin
 - Email = gordonlc18@gmail.com
   or visit my GitHub profile:
 - GitHub - [gordonlc18](https://github.com/gordonlc18)
+
+## License
+
+This project is licensed under the MIT license.
