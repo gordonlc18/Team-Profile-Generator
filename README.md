@@ -27,7 +27,7 @@ The user should clone the repository then download Node. Run `npm install`, then
 ## Usage
 
 To begin profile generator run `node index.js` in your command line.</br>
-Click link for video walkthrough - [Screencastify](https://drive.google.com/file/d/1sFQ1HejRTtYje09ztzBIgcfoSz96LPJf/view)
+Click link for video walkthrough - [Screencastify](https://drive.google.com/file/d/10KCj1D5VLsTfsk64mIJ4ffJjZRE6tQG-/view)
 
 ## Screenshot
 
